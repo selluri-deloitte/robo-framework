@@ -6,6 +6,9 @@ Installation steps
 2. Install Visual studio code - https://code.visualstudio.com/download
 3. open visual studio code -> extensions -> search for Robot Framework Language Server and install the extension
 4. open visual studio code -> extensions -> search for Robocorp Code and install the extension
+
+run below steps manually or execute the steps.bat file.
+
 5. open visual studio code -> Terminal -> new terminal -> run pip install robotframework
 6. run pip install  robotframework-seleniumlibrary
 7. download chrome drive from https://chromedriver.chromium.org/downloads based on chromer browser version
