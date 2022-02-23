@@ -11,5 +11,5 @@ Installation steps
 7. download chrome drive from https://chromedriver.chromium.org/downloads based on chromer browser version
 8. extract the contents of chrome browser to a folder
 9. from visual source code terminal run 
-   setx PATH "give path of chromedriver.exe folder" 
-   set PATH "give path of chromedriver.exe folder"
+   a) setx PATH "give path of chromedriver.exe folder" 
+   b) set PATH "give path of chromedriver.exe folder"
