@@ -3,7 +3,7 @@ Installation steps
 
 1. Install python from - https://www.python.org/ 
    During installation steps choose add to path option
-2. Install Visual studio code
+2. Install Visual studio code - https://code.visualstudio.com/download
 3. open visual studio code -> extensions -> search for Robot Framework Language Server and install the extension
 4. open visual studio code -> extensions -> search for Robocorp Code and install the extension
 5. open visual studio code -> Terminal -> new terminal -> run pip install robotframework
